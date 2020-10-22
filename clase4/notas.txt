@@ -1,0 +1,6 @@
+
+
+Git --> programa para manetner el historial de vesiones del mismo archivo. 
+Se instala en el computador, instalar homebrew y luego git desde homebrew
+
+github -->
